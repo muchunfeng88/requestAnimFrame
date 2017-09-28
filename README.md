@@ -15,9 +15,10 @@
   color: white;
   border-radius: 10px;
  padding: 1em;
+
 }
 
-> requestAnimFrame 的 兼容
+> requestAnimFrame 的 兼容性
 
 window.requestAnimFrame = (function(){
 
